@@ -12,7 +12,7 @@ with open("ChineseSimplified.csv", "r", encoding="utf-8") as f:
 
 
 def getI18n(key):
-    return i18nTable.get(key, key)
+    return i18nTable.get(key, key).replace("\\?", "?")
 
 
 with open("ItemAssetsCollection.json", "r", encoding="utf-8") as f:

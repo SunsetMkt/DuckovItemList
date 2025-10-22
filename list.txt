@@ -2,7 +2,7 @@
 * 切肉刀 (1, 0_MeleeWeapon_Template): 看起来很粗犷的刀，不是很锋利。
 * 三级防弹衣 (2, ArmorLV3): 三级防弹衣，在某些时候能够保住你的小命。
 * 金色五角星 (3, Gem): 神秘物质构成的金色五角星。增加近战武器攻击力。
-* GunTemplate (4, 1_Rifle-A_template): \?
+* GunTemplate (4, 1_Rifle-A_template): ?
 * R6电池 (8, BatteryR6): 在各种用电器中被广泛使用的电池。
 * 止血绷带 (10, Bandage): 可以止血,并回复微少生命值。
 * PP3电池 (11, BatteryPP3): 通常用于烟雾探测器、遥控玩具发射器以及作为闹钟的后备电池。
@@ -831,7 +831,7 @@
 * Item_EGun_StormBoss_2_Poison (899, EGun_StormBoss_2_Poison): Item_EGun_StormBoss_2_Poison_Desc
 * Item_EGun_StormBoss_3_Fire (900, EGun_StormBoss_3_Fire): Item_EGun_StormBoss_3_Fire_Desc
 * Item_EGun_StormBoss_4_Electric (901, EGun_StormBoss_4_Electric): Item_EGun_StormBoss_4_Electric_Desc
-* \?\?\? (902, EGun_StormBoss_5_Space): Item_EGun_StormBoss_5_Space_Desc
+* ??? (902, EGun_StormBoss_5_Space): Item_EGun_StormBoss_5_Space_Desc
 * 啪啦防弹衣 (908, Armor_SBossFire_ResElec): 实验体啪啦啪啦穿着的防弹衣。啪啦啪啦的这套装备对火和电属性有很好的防御能力，但极易被毒属性伤害。
 * 比利防弹衣 (909, Armor_SBossElec_ResSpace): 实验体比利比利穿着的防弹衣。比利比利的这套装备对电和空间属性有很好的防御能力，但极易被火属性伤害。
 * 口口防弹衣 (910, Armor_SBossSpace): Item_Armor_SBossSpace_Desc
@@ -1159,10 +1159,10 @@
 * 风暴眼 (1236, SpaceEye): 风暴虫的眼睛。
 * 配方：浓缩浆质 (1237, Formula_ConcentratedSlurry): 制造浓缩浆质的配方。
 * MF-毒液 (1238, AR_MF_Poison): 让射出的子弹裹上浓缩浆质，会让命中的目标中毒。
-* \?\?\? (1239, EGun_Magic_Red): \?\?\?
+* ??? (1239, EGun_Magic_Red): ???
 * 蓝图：MF-毒液 (1240, BP_AR_MF_Poison): 用于在工作台研发武器：MF-毒液。
 * 汽车电池 (1241, CarBattery): 汽车用的高容量电池。
-* \?\?\? (1242, RedEye): 看起来不太稳定，不知道吃下去会怎么样？
+* ??? (1242, RedEye): 看起来不太稳定，不知道吃下去会怎么样？
 * 骨夹板 (1243, Splint): 用于快速治疗骨折。
 * 高级骨夹板 (1244, SplintAdvanced): 用于快速治疗骨折，可用多次。
 * 手术包 (1245, SurgicalKit): 用于治疗创伤。
