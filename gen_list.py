@@ -27,8 +27,8 @@ plainList += templateLine
 for i in entries:
     metaData = i["metaData"]
     line = (
-        f"* {getI18n(metaData['displayName'])} ({metaData['id']}): {getI18n(metaData['description'])}"
-        + f" ({metaData['name']}, {metaData['displayQuality']}, {metaData['quality']}, {metaData['priceEach']}, {metaData['maxStackCount']})"
+        f"* {getI18n(metaData['displayName'])} (`{metaData['id']}`): {getI18n(metaData['description'])}"
+        + f" (`{metaData['name']}`, `{metaData['displayQuality']}`, `{metaData['quality']}`, `{metaData['priceEach']}`, `{metaData['maxStackCount']}`)"
         + "\n"
     )
     plainList += line
