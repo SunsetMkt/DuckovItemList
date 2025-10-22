@@ -21,9 +21,16 @@ with open("ItemAssetsCollection.json", "r", encoding="utf-8") as f:
 
 plainList = ""
 
+templateLine = "* `displayName` (`id`): `description` (`name`, `displayQuality`, `quality`, `priceEach`, `maxStackCount`)\n"
+plainList += templateLine
+
 for i in entries:
     metaData = i["metaData"]
-    line = f"* {getI18n(metaData['displayName'])} ({metaData['id']}, {metaData['name']}): {getI18n(metaData['description'])}\n"
+    line = (
+        f"* {getI18n(metaData['displayName'])} ({metaData['id']}): {getI18n(metaData['description'])}"
+        + f" ({metaData['name']}, {metaData['displayQuality']}, {metaData['quality']}, {metaData['priceEach']}, {metaData['maxStackCount']})"
+        + "\n"
+    )
     plainList += line
 
 with open("list.txt", "w", encoding="utf-8") as f:
