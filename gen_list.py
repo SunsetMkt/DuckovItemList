@@ -33,5 +33,5 @@ for i in entries:
     )
     plainList += line
 
-with open("list.txt", "w", encoding="utf-8") as f:
+with open("list.md", "w", encoding="utf-8") as f:
     f.write(plainList)
