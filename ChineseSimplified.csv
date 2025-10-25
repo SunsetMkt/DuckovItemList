@@ -2972,7 +2972,7 @@ Options_ShadowSetting,阴影,#20250602021546,Options
 Options_EdgeLightSetting,边缘光,#20250602021743,Options
 Options_SunFogSetting,雾效,#20250602021823,Options
 SaveSlot_RestoreFailure,检测到上次存档时发生意外，已恢复到最后的可用存档版本。游戏进度可能丢失。,#20250603081809,UIText
-Quest_207_Desc,我感觉你有成为一名狙击手的潜质，去完成入门考验吧。狙击手首先得精通爆头，爆头击杀六只仓库区的黑鸭子。完成考验我就允许你进行狙击手的资格认证。,#20251004073947,Quests
+Quest_207_Desc,我感觉你有成为一名狙击手的潜质，去完成入门考验吧。狙击手首先得精通爆头，爆头击杀3只仓库区的黑鸭子。完成考验我就允许你进行狙击手的资格认证。,#20251022025344,Quests
 Quest_207,狙击手入门,#20250603071528,Quests
 Poptext_OutOfAmmo,子弹打光了！,#20250603111326,Default
 UI_Menu_RecoverPlayerPos,脱离卡死,#20250604034942,UIText
@@ -4694,3 +4694,7 @@ Input_Trigger,开火,#20251020032505,UIText
 Input_ADS,瞄准,#20251020032707,UIText
 Item_ShitBall,粪球,#20251020083524,Items
 Item_ShitBall_Desc,可以扔出去。,#20251020101943,Items
+Item_EGun_AR_Storm_Virus,\?\?\?,#20251022091716,Items
+Options_HurtVisualSettings,受伤提示,#20251022110735,Options
+Item_Kazoo,卡祖笛,#20251023075248,Items
+Item_Kazoo_Desc,老吴的音乐梦想！,#20251023075301,Items
